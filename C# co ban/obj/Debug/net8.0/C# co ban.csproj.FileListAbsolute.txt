@@ -1,0 +1,14 @@
+E:\C# co ban\bin\Debug\net8.0\C# co ban.exe
+E:\C# co ban\bin\Debug\net8.0\C# co ban.deps.json
+E:\C# co ban\bin\Debug\net8.0\C# co ban.runtimeconfig.json
+E:\C# co ban\bin\Debug\net8.0\C# co ban.dll
+E:\C# co ban\bin\Debug\net8.0\C# co ban.pdb
+E:\C# co ban\obj\Debug\net8.0\C# co ban.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# co ban\obj\Debug\net8.0\C# co ban.AssemblyInfoInputs.cache
+E:\C# co ban\obj\Debug\net8.0\C# co ban.AssemblyInfo.cs
+E:\C# co ban\obj\Debug\net8.0\C# co ban.csproj.CoreCompileInputs.cache
+E:\C# co ban\obj\Debug\net8.0\C# co ban.dll
+E:\C# co ban\obj\Debug\net8.0\refint\C# co ban.dll
+E:\C# co ban\obj\Debug\net8.0\C# co ban.pdb
+E:\C# co ban\obj\Debug\net8.0\C# co ban.genruntimeconfig.cache
+E:\C# co ban\obj\Debug\net8.0\ref\C# co ban.dll
